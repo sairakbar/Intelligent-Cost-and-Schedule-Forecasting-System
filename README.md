@@ -115,15 +115,15 @@ SQL
 
 ### Risk Prediction Performance
 
-![Model Performance](images/Model_performance.png)
+![Model Performance](images/model_performance.png)
 
 ### Risk Distribution
 
-![Risk Distribution](images/Risk_distribution.png)
+![Risk Distribution](images/risk_distribution.png)
 
 ### Feature Importance
 
-![Feature Importance](images/Feature_importance.png)
+![Feature Importance](images/feature_importance.png)
 
 ---
 
