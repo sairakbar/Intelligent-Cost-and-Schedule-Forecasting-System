@@ -119,7 +119,7 @@ SQL
 
 ### Risk Distribution
 
-![Risk Distribution](images/risk_distribution.png)
+![Risk Distribution](images/risk_output.png)
 
 ### Feature Importance
 
